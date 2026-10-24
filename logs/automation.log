@@ -1,0 +1,10 @@
+2026-10-24 08:18:34 INFO  Log - Loading configuration
+2026-10-24 08:18:34 INFO  Log - Browser selected: chrome
+2026-10-24 08:18:39 INFO  Log - Chrome browser started
+2026-10-24 08:18:39 INFO  Log - Browser window maximized
+2026-10-24 08:18:39 INFO  Log - Opening application: https://www.amazon.in
+2026-10-24 08:18:39 INFO  Log - Application opened successfully
+2026-10-24 08:18:39 INFO  Log - Test Started:verifyProductTitle
+2026-10-24 08:18:46 ERROR Log - Test Failed: verifyProductTitle
+2026-10-24 08:18:46 INFO  Log - Closing browser
+2026-10-24 08:18:47 INFO  Log - Browser closed successfully
