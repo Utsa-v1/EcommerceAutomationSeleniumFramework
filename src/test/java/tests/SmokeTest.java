@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-@Listeners(TestListener.class)
+
 public class SmokeTest extends BaseTest {
 
     @BeforeMethod

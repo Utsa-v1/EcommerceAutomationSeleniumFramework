@@ -1,10 +1,154 @@
-2026-10-24 08:18:34 INFO  Log - Loading configuration
-2026-10-24 08:18:34 INFO  Log - Browser selected: chrome
-2026-10-24 08:18:39 INFO  Log - Chrome browser started
-2026-10-24 08:18:39 INFO  Log - Browser window maximized
-2026-10-24 08:18:39 INFO  Log - Opening application: https://www.amazon.in
-2026-10-24 08:18:39 INFO  Log - Application opened successfully
-2026-10-24 08:18:39 INFO  Log - Test Started:verifyProductTitle
-2026-10-24 08:18:46 ERROR Log - Test Failed: verifyProductTitle
-2026-10-24 08:18:46 INFO  Log - Closing browser
-2026-10-24 08:18:47 INFO  Log - Browser closed successfully
+2026-10-26 22:35:29 INFO  Log - Loading configuration
+2026-10-26 22:35:29 INFO  Log - Browser selected: chrome
+2026-10-26 22:35:31 INFO  Log - Chrome browser started
+2026-10-26 22:35:31 INFO  Log - Browser window maximized
+2026-10-26 22:35:31 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:35:31 INFO  Log - Application opened successfully
+2026-10-26 22:35:31 INFO  Log - Test Started:verifyApplicationLaunch
+2026-10-26 22:35:36 INFO  Log - Test Passed:verifyApplicationLaunch
+2026-10-26 22:35:36 INFO  Log - Closing browser
+2026-10-26 22:35:36 INFO  Log - Browser closed successfully
+2026-10-26 22:35:36 INFO  Log - Loading configuration
+2026-10-26 22:35:36 INFO  Log - Browser selected: chrome
+2026-10-26 22:35:36 INFO  Log - Chrome browser started
+2026-10-26 22:35:37 INFO  Log - Browser window maximized
+2026-10-26 22:35:37 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:35:37 INFO  Log - Application opened successfully
+2026-10-26 22:35:37 INFO  Log - Test Started:addToCart
+2026-10-26 22:35:41 INFO  Log - Test Skipped:addToCart
+2026-10-26 22:35:41 INFO  Log - Closing browser
+2026-10-26 22:35:41 INFO  Log - Browser closed successfully
+2026-10-26 22:35:41 INFO  Log - Loading configuration
+2026-10-26 22:35:41 INFO  Log - Browser selected: chrome
+2026-10-26 22:35:42 INFO  Log - Chrome browser started
+2026-10-26 22:35:42 INFO  Log - Browser window maximized
+2026-10-26 22:35:42 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:35:42 INFO  Log - Application opened successfully
+2026-10-26 22:35:42 INFO  Log - Test Started:addToCart
+2026-10-26 22:35:46 ERROR Log - Test Failed: addToCart
+2026-10-26 22:35:47 INFO  Log - Closing browser
+2026-10-26 22:35:47 INFO  Log - Browser closed successfully
+2026-10-26 22:35:47 INFO  Log - Loading configuration
+2026-10-26 22:35:47 INFO  Log - Browser selected: chrome
+2026-10-26 22:35:48 INFO  Log - Chrome browser started
+2026-10-26 22:35:48 INFO  Log - Browser window maximized
+2026-10-26 22:35:48 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:35:48 INFO  Log - Application opened successfully
+2026-10-26 22:35:48 INFO  Log - Test Started:verifyProductTitle
+2026-10-26 22:35:52 INFO  Log - Test Skipped:verifyProductTitle
+2026-10-26 22:35:52 INFO  Log - Closing browser
+2026-10-26 22:35:52 INFO  Log - Browser closed successfully
+2026-10-26 22:35:52 INFO  Log - Loading configuration
+2026-10-26 22:35:52 INFO  Log - Browser selected: chrome
+2026-10-26 22:35:53 INFO  Log - Chrome browser started
+2026-10-26 22:35:53 INFO  Log - Browser window maximized
+2026-10-26 22:35:53 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:35:53 INFO  Log - Application opened successfully
+2026-10-26 22:35:53 INFO  Log - Test Started:verifyProductTitle
+2026-10-26 22:35:57 ERROR Log - Test Failed: verifyProductTitle
+2026-10-26 22:35:57 INFO  Log - Closing browser
+2026-10-26 22:35:58 INFO  Log - Browser closed successfully
+2026-10-26 22:40:42 INFO  Log - Loading configuration
+2026-10-26 22:40:42 INFO  Log - Browser selected: chrome
+2026-10-26 22:40:43 INFO  Log - Chrome browser started
+2026-10-26 22:40:43 INFO  Log - Browser window maximized
+2026-10-26 22:40:43 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:40:45 INFO  Log - Application opened successfully
+2026-10-26 22:40:45 INFO  Log - Test Started:verifyApplicationLaunch
+2026-10-26 22:40:48 INFO  Log - Test Passed:verifyApplicationLaunch
+2026-10-26 22:40:48 INFO  Log - Closing browser
+2026-10-26 22:40:48 INFO  Log - Browser closed successfully
+2026-10-26 22:40:48 INFO  Log - Loading configuration
+2026-10-26 22:40:48 INFO  Log - Browser selected: chrome
+2026-10-26 22:40:49 INFO  Log - Chrome browser started
+2026-10-26 22:40:49 INFO  Log - Browser window maximized
+2026-10-26 22:40:49 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:40:49 INFO  Log - Application opened successfully
+2026-10-26 22:40:49 INFO  Log - Test Started:addToCart
+2026-10-26 22:40:54 INFO  Log - Test Skipped:addToCart
+2026-10-26 22:40:54 INFO  Log - Closing browser
+2026-10-26 22:40:54 INFO  Log - Browser closed successfully
+2026-10-26 22:40:54 INFO  Log - Loading configuration
+2026-10-26 22:40:54 INFO  Log - Browser selected: chrome
+2026-10-26 22:40:54 INFO  Log - Chrome browser started
+2026-10-26 22:40:54 INFO  Log - Browser window maximized
+2026-10-26 22:40:54 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:40:55 INFO  Log - Application opened successfully
+2026-10-26 22:40:55 INFO  Log - Test Started:addToCart
+2026-10-26 22:40:59 ERROR Log - Test Failed: addToCart
+2026-10-26 22:41:00 INFO  Log - Closing browser
+2026-10-26 22:41:00 INFO  Log - Browser closed successfully
+2026-10-26 22:41:00 INFO  Log - Loading configuration
+2026-10-26 22:41:00 INFO  Log - Browser selected: chrome
+2026-10-26 22:41:00 INFO  Log - Chrome browser started
+2026-10-26 22:41:00 INFO  Log - Browser window maximized
+2026-10-26 22:41:00 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:41:01 INFO  Log - Application opened successfully
+2026-10-26 22:41:01 INFO  Log - Test Started:verifyProductTitle
+2026-10-26 22:41:05 INFO  Log - Test Skipped:verifyProductTitle
+2026-10-26 22:41:05 INFO  Log - Closing browser
+2026-10-26 22:41:05 INFO  Log - Browser closed successfully
+2026-10-26 22:41:05 INFO  Log - Loading configuration
+2026-10-26 22:41:05 INFO  Log - Browser selected: chrome
+2026-10-26 22:41:06 INFO  Log - Chrome browser started
+2026-10-26 22:41:06 INFO  Log - Browser window maximized
+2026-10-26 22:41:06 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:41:06 INFO  Log - Application opened successfully
+2026-10-26 22:41:06 INFO  Log - Test Started:verifyProductTitle
+2026-10-26 22:41:10 ERROR Log - Test Failed: verifyProductTitle
+2026-10-26 22:41:11 INFO  Log - Closing browser
+2026-10-26 22:41:11 INFO  Log - Browser closed successfully
+2026-10-26 22:55:29 INFO  Log - Test Suite Started
+2026-10-26 22:55:29 INFO  Log - Loading configuration
+2026-10-26 22:55:29 INFO  Log - Browser selected: chrome
+2026-10-26 22:55:29 INFO  Log - Chrome browser started
+2026-10-26 22:55:29 INFO  Log - Browser window maximized
+2026-10-26 22:55:29 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:55:30 INFO  Log - Application opened successfully
+2026-10-26 22:55:30 INFO  Log - Test Started: verifyApplicationLaunch
+2026-10-26 22:55:35 INFO  Log - Test Passed: verifyApplicationLaunch
+2026-10-26 22:55:35 INFO  Log - Closing browser
+2026-10-26 22:55:35 INFO  Log - Browser closed successfully
+2026-10-26 22:55:35 INFO  Log - Loading configuration
+2026-10-26 22:55:35 INFO  Log - Browser selected: chrome
+2026-10-26 22:55:35 INFO  Log - Chrome browser started
+2026-10-26 22:55:35 INFO  Log - Browser window maximized
+2026-10-26 22:55:35 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:55:36 INFO  Log - Application opened successfully
+2026-10-26 22:55:36 INFO  Log - Test Started: addToCart
+2026-10-26 22:55:41 INFO  Log - Test Skipped: addToCart
+2026-10-26 22:55:41 INFO  Log - Closing browser
+2026-10-26 22:55:41 INFO  Log - Browser closed successfully
+2026-10-26 22:55:41 INFO  Log - Loading configuration
+2026-10-26 22:55:41 INFO  Log - Browser selected: chrome
+2026-10-26 22:55:42 INFO  Log - Chrome browser started
+2026-10-26 22:55:42 INFO  Log - Browser window maximized
+2026-10-26 22:55:42 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:55:44 INFO  Log - Application opened successfully
+2026-10-26 22:55:44 INFO  Log - Test Started: addToCart
+2026-10-26 22:55:46 ERROR Log - Test Failed: addToCart
+2026-10-26 22:55:47 INFO  Log - Screenshot captured for: addToCart
+2026-10-26 22:55:47 INFO  Log - Closing browser
+2026-10-26 22:55:47 INFO  Log - Browser closed successfully
+2026-10-26 22:55:47 INFO  Log - Loading configuration
+2026-10-26 22:55:47 INFO  Log - Browser selected: chrome
+2026-10-26 22:55:47 INFO  Log - Chrome browser started
+2026-10-26 22:55:47 INFO  Log - Browser window maximized
+2026-10-26 22:55:47 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:55:48 INFO  Log - Application opened successfully
+2026-10-26 22:55:48 INFO  Log - Test Started: verifyProductTitle
+2026-10-26 22:55:52 INFO  Log - Test Skipped: verifyProductTitle
+2026-10-26 22:55:52 INFO  Log - Closing browser
+2026-10-26 22:55:52 INFO  Log - Browser closed successfully
+2026-10-26 22:55:52 INFO  Log - Loading configuration
+2026-10-26 22:55:52 INFO  Log - Browser selected: chrome
+2026-10-26 22:55:52 INFO  Log - Chrome browser started
+2026-10-26 22:55:52 INFO  Log - Browser window maximized
+2026-10-26 22:55:52 INFO  Log - Opening application: https://www.amazon.in
+2026-10-26 22:55:53 INFO  Log - Application opened successfully
+2026-10-26 22:55:53 INFO  Log - Test Started: verifyProductTitle
+2026-10-26 22:55:57 ERROR Log - Test Failed: verifyProductTitle
+2026-10-26 22:55:57 INFO  Log - Screenshot captured for: verifyProductTitle
+2026-10-26 22:55:57 INFO  Log - Closing browser
+2026-10-26 22:55:57 INFO  Log - Browser closed successfully
+2026-10-26 22:55:57 INFO  Log - Test Suite Finished
